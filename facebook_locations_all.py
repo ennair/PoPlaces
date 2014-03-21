@@ -87,7 +87,8 @@ function initialize() {
       		'<h1 id="firstHeading" class="firstHeading">Ziggo Dome</h1>'+
       		'<div id="bodyContent">'+
       		'<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ZiggoDome2012.jpg/200px-ZiggoDome2012.jpg"> '+
-		'<p>Ziggo Dome is a 17,000-seat multi-use indoor arena in Amsterdam,'+ 			'Netherlands. Marco Borsato was the first artist to perform at the '+ 
+		'<p>Ziggo Dome is a 17,000-seat multi-use indoor arena in Amsterdam,'+
+		'Netherlands. Marco Borsato was the first artist to perform at the '+ 
 		'Dome on June 24, 2012 with his "Dichtbij" tour. The American rock band '+
 		'Pearl Jam was the first foreign artist to play in the Ziggo Dome: they '+
 		'played two shows in June 2012 as part of their European tour.'+
